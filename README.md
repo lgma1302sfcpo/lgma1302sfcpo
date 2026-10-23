@@ -53,8 +53,7 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lgma1302sfcpo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=784CFF&icon_color=415CFF&text_color=9BA3B4&bg_color=0D1117" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgma1302sfcpo&layout=compact&hide_border=true&langs_count=8&title_color=784CFF&text_color=9BA3B4&bg_color=0D1117" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgma1302sfcpo&layout=compact&hide=html,css,blade,powershell&hide_border=true&langs_count=8&title_color=784CFF&text_color=9BA3B4&bg_color=0D1117" alt="Top languages" />
 </p>
 
 <p align="center">
