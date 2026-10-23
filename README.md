@@ -1,21 +1,29 @@
-### Hi there 👋
+# Hi, I'm Luiz Guilherme 👋
 
-😄 My name is Luiz Guilherme Monteiro Arlindo
+**Full Stack Developer** · React · Next.js · React Native · Node.js · TypeScript
+📍 Santos, Brazil · 🌎 Remote · 🗣️ Portuguese (native), English (advanced)
 
-🎓 I'm studying computer engineering
+I build web and mobile products end to end, from requirements to deployment. 4+ years shipping React and React Native apps, Node.js APIs and PostgreSQL databases. Currently a freelancer delivering ERPs, booking systems, marketplaces and SaaS for small businesses, and open to remote contract work.
 
-💻 I developed some services for micro-enterprises with any technology, such as React Native, React, PHP.
+### What I've shipped
 
-😍 I've always been an enthusiast for everything that involves technology
+- **Pet shop ERP with Brazilian e-invoicing.** POS, cash register, inventory, grooming schedule, finance and NF-e/NFC-e with XML digital signature. Used by paying clients.
+- **Barbershop booking with WhatsApp.** WhatsApp Cloud API confirmations (HMAC webhooks, outbox) and double-booking prevention with SERIALIZABLE transactions and a GiST index.
+- **Wellness SaaS in production.** Stripe subscriptions, professional verification, map search and AI features.
+- **Pet booking marketplace.** Stripe and Pix payments, AWS S3, BullMQ and Redis.
+- **React Native apps.** Android and iOS with Expo, offline-first sync, maps, push notifications and store releases.
 
-🌌 I am passionate about the search for knowledge!
+### Tech
 
-✈️ Traveling and getting to know new cultures are my favorite hobbies
+**Front-end:** React, Next.js (App Router), TypeScript, Tailwind CSS, shadcn/ui, React Query, Zod
+**Mobile:** React Native, Expo, Expo Router, EAS, Zustand, WatermelonDB
+**Back-end:** Node.js, Express, REST APIs, Prisma, Drizzle, PHP/Laravel, Python
+**Data:** PostgreSQL, MySQL, Redis, MongoDB, SQLite
+**Integrations:** Stripe, Mercado Pago, Pix, WhatsApp Cloud API, AWS S3, Claude API
+**Quality & DevOps:** Vitest, Playwright, Docker, GitHub, Vercel
 
-🖱️ Here you will find some of my projects! ✨ Enjoy ✨
+### Links
 
-I have some projects to show my knowledge about programming languages, architectural designs, clean code.
-
-I built mobile applications with React Native, developing for Android and IOS, following good practices and official recommendations in every project I work on. Through code versioning with GIT and BitBucket, I developed as a team in an agile way, prioritizing the delivery of results. 
-
-My purpose is to develop all the projects, but there are some projects that I didn't realize yet. Every week I work in one of each.
+🌐 Portfolio: [lgma1302sfcpo.github.io/portfolio](https://lgma1302sfcpo.github.io/portfolio)
+💼 LinkedIn: [luiz-guilherme-monteiro-arlindo](https://www.linkedin.com/in/luiz-guilherme-monteiro-arlindo-b0824b215)
+✉️ lgma86932@gmail.com
